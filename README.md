@@ -1,6 +1,6 @@
 # HackerRank Problem Solving Solutions
 
-This repository contains solutions to various HackerRank problem-solving challenges. The solutions are implemented in C and Python by Shyam Tripathi.
+This repository contains solutions to various HackerRank problem-solving challenges. The solutions are implemented in C and Python by Shyam Tripathi. The main purpose of creating this repo is remind the code whenever it is necessary.
 
 ## Table of Contents
 
